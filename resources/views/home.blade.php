@@ -21,3 +21,12 @@
     </div>
 </div>
 @endsection
+<!-- css -->
+@section('css')
+@endsection
+<!-- js -->
+@section('js')
+<script>
+    alert("Hola bienvenido");
+</script>
+@endsection
